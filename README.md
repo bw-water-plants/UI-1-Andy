@@ -1,5 +1,5 @@
 # Build Week - Water My Plants Project  
-## UI1: Josh Cooter  
+## UI1: Andy Dillon  
 
 ### What problem does your app solve?  
 The Water My Plants App will serve as a reminder for the optimal time to water our plants.  
